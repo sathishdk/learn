@@ -1,0 +1,11 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  text-align: justify;
+  font-family: 'Open Sans', san-serif;
+  font-size: 16px;
+  line-height: 21px;
+}
+login-form{
+  text-align: center;
+}
