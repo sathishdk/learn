@@ -11,3 +11,6 @@ body{
 .login-form{
   text-align: center;
 }
+.login-form label{
+  font-size: 13px;
+}
