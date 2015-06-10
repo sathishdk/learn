@@ -8,6 +8,10 @@ body{
   font-size: 16px;
   line-height: 21px;
 }
-login-form{
+.login-form{
+  text-align: center;
+}
+.login-form input, .login-form button{
+  display: block;
   text-align: center;
 }
